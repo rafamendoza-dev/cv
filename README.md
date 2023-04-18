@@ -122,7 +122,7 @@ Project Bomberos Santiago:
 - Front-end mobile app development for iOS using-based javascript framework; Appcelerator titanium and TSS
 <br><br>
 
-**Backend Developer** @ Bala <br>
+**Backend Developer** @ Bala _(Aug 2015 - Feb 2016)_ <br>
 Website Project:
 Responsible for debugging, understanding, and analyzing the code of the page to subsequently implement the required solution using PHP Programming Language, MySQL 5.5 Database, and Yii 1 Framework.
 Client: Winkler Ltd.
@@ -135,8 +135,9 @@ Client: Promueble Ltda.
 **Web Developer** @ Inversiones The Elephant Group S.P.A _(Aug 2014 - Aug 2015)_ <br>
 Programming and Design in CMS Wordpress, Integration of Woocommerce, Transbank certification, Maintenance of website and sales platforms.
 Extraction and analysis of data from various sources (database, flat files, etc.) to facilitate decision-making.
+<br><br>
 
-## 🏫🏼‍🎓 Education
+## 🏫 Education
 
 **Diploma of Extension** in Evaluation and Planning of Computer Projects <br>
 [Universidad de Chile](https://fen.uchile.cl/es) - Stgo, Chile _(Jul 2021 - Feb 2022)_ <br>
