@@ -15,14 +15,17 @@ Development of Big Data Solutions mainly using Splunk, Microsoft Azure, and Clou
 Development of WorkFlows:
 - Apache NiFi and Azure Synapse Pipelines
 - Data migration and processing with PySpark and R.
+
 Exploratory data analysis:
 - Splunk, SQL, Azure Data Studio 
 - Basic statistics with R
 - Integration of various libraries and ML models.
+
 Development and Administration for:
 - Cloudera Data Platform Public Cloud on Microsoft Azure
 - Cloudera Data Science Workbench
 - Cloudera Data Platform Private Cloud.
+
 Apache Software Foundation:
 - NiFi, Kafka, Hive, Impala, Spark, Ranger, Atlas, Oozie, Airflow, Yarn, and Hadoop.
 Auth: AD, Azure AD, LDAP and kerberos.
