@@ -3,7 +3,7 @@
 _Senior Software Engineer with 10+ years experience in IT, 8 years in web and software development, and 2 years in management.
 Big Data and DevOps culture enthusiast 🇩🇪_ <br>
 
-[Email](mailto:rmendoza@programmer.net) / [LinkedIn](https://www.linkedin.com/in/rmendozag/)
+:email:[Email](mailto:rmendoza@programmer.net) / [LinkedIn](https://www.linkedin.com/in/rmendozag/)
 
 
 ## :computer: Engineering Experience
