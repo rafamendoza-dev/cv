@@ -9,6 +9,7 @@ Big Data and DevOps culture enthusiast_ <br>
     * Full Stack: Django, DRF, flask, fastAPI, NodeJS, Laravel, TypeScript, js, es6, Angular, vueJS, Ionic, MySQL, PostgreSQL, MongoDB, EloquentORM, Redis, GraphQL, python, pytest, PHP and Go
     * DevOps: git, GitHub actions, lens, Jenkins, Docker, k8s, GitOps, Snyk, ingress, portainer, argoCD, Linux, Open Telemetry, Docker Swarm, Prometheus, Jaeger, and Splunk
     * Big Data: Cloudera, R, python, Databricks, Apache Software Foundation: NiFi, Kafka, Hive, Impala, Spark, Ranger, Atlas, Oozie, Yarn, and Hadoop
+    * Cloud: Azure: Databricks, Synapse, Data Lake Storage, Virtual Machines, Kubernetes Services, Container Registry, Data Studio, DevOps, Data Factory, Active Directory, CosmosDB, Functions, and Database for PostgreSQL. AWS: EC2 and S3
 <br>
 
 ## 💻 Engineering Experience
@@ -27,6 +28,8 @@ Development and Administration for:
 - Cloudera Data Platform Public Cloud on Microsoft Azure
 - Cloudera Data Science Workbench
 - Cloudera Data Platform Private Cloud.
+
+Auth: AD, Azure AD, LDAP and kerberos.
 <br>
 
 **Technical Lead - Products and Services** @ [Kudaw](https://www.kudaw.com/home) _(Apr 2021 - Present)_ <br>
