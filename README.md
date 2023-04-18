@@ -12,12 +12,9 @@ Big Data and DevOps culture enthusiast 🇩🇪_ <br>
 
 Development of Big Data Solutions mainly using Splunk, Microsoft Azure, and Cloudera.
 
-Development of WorkFlows:
-- Apache NiFi and Azure Synapse Pipelines
+- Development of WorkFlows in Apache NiFi and Azure Synapse Pipelines(Data Factory)
 - Data migration and processing with PySpark and R.
-
-Exploratory data analysis:
-- Splunk, SQL, Azure Data Studio 
+- Exploratory data analysis using Splunk, SQL, Azure Data Studio 
 - Basic statistics with R
 - Integration of various libraries and ML models.
 
@@ -129,7 +126,7 @@ Project Bomberos Santiago:
 - Front-end mobile app development for iOS using-based javascript framework; Appcelerator titanium and TSS
 <br><br>
 
-**Web Developer** @ [Bala] _(Aug 2015 - Feb 2016)_ <br>
+**Backend Developer** @ [Bala] _(Aug 2015 - Feb 2016)_ <br>
 Website Project:
 Responsible for debugging, understanding, and analyzing the code of the page to subsequently implement the required solution using PHP Programming Language, MySQL 5.5 Database, and Yii 1 Framework.
 Client: Winkler Ltd.
