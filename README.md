@@ -8,7 +8,7 @@ Big Data and DevOps culture enthusiast 🇩🇪_ <br>
 
 ## 👩🏼‍💻 Engineering Experience
 
-** Big Data Engineer** @ [Kudaw](https://www.kudaw.com/home) _(Nov 2021 - Present)_ <br>
+**Big Data Engineer** @ [Kudaw](https://www.kudaw.com/home) _(Nov 2021 - Present)_ <br>
 
 Development of Big Data Solutions mainly using Splunk, Microsoft Azure, and Cloudera.
 
@@ -32,7 +32,7 @@ Apache Software Foundation:
 Auth: AD, Azure AD, LDAP and kerberos.
 <br><br>
 
-** Technical Lead - Products and Services** @ [Kudaw](https://www.kudaw.com/home) _(Apr 2021 - Present)_ <br>
+**Technical Lead - Products and Services** @ [Kudaw](https://www.kudaw.com/home) _(Apr 2021 - Present)_ <br>
 
 - Development of Solutions and project leadership in the area of Products and Services
 - Support in Big Data Project Management, Development Area 
@@ -42,7 +42,7 @@ Auth: AD, Azure AD, LDAP and kerberos.
 - In charge of training collaborators by carrying out documentation and workshops of multiple technologies in which they stand out: Angular, typescript, docker, git, Django rest framework, and CI with GitHub actions
 <br><br>
 
-** Senior Software Engineer ** @ [Kudaw](https://www.kudaw.com/home) _(Apr 2021 - Present)_ <br>
+**Senior Software Engineer** @ [Kudaw](https://www.kudaw.com/home) _(Apr 2021 - Present)_ <br>
 Principal in charge of developing the product and services area: Product developer for Big Data and Observability in Azure and On-premises.
 
 Featured projects:
