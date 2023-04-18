@@ -5,13 +5,10 @@ Big Data and DevOps culture enthusiast_ <br>
 
 [Email](mailto:rmendoza@programmer.net) / [LinkedIn](https://www.linkedin.com/in/rmendozag/)
 
-Technical Skills:
-
-• Full Stack: Django, DRF, flask, fastAPI, NodeJS, Laravel, TypeScript, js, es6, Angular, vueJS, Ionic, MySQL, PostgreSQL, MongoDB, EloquentORM, Redis, GraphQL, python, pytest, PHP and Go
-
-• DevOps: git, GitHub actions, lens, Jenkins, Docker, k8s, GitOps, Snyk, ingress, portainer, argoCD, Linux, Open Telemetry, Docker Swarm, Prometheus, Jaeger, and Splunk
-
-• Big Data: Cloudera, R, python, Databricks, Apache Software Foundation: NiFi, Kafka, Hive, Impala, Spark, Ranger, Atlas, Oozie, Yarn, and Hadoop
+* Technical Skills:
+    * Full Stack: Django, DRF, flask, fastAPI, NodeJS, Laravel, TypeScript, js, es6, Angular, vueJS, Ionic, MySQL, PostgreSQL, MongoDB, EloquentORM, Redis, GraphQL, python, pytest, PHP and Go
+    * DevOps: git, GitHub actions, lens, Jenkins, Docker, k8s, GitOps, Snyk, ingress, portainer, argoCD, Linux, Open Telemetry, Docker Swarm, Prometheus, Jaeger, and Splunk
+    * Big Data: Cloudera, R, python, Databricks, Apache Software Foundation: NiFi, Kafka, Hive, Impala, Spark, Ranger, Atlas, Oozie, Yarn, and Hadoop
 <br>
 
 ## 💻 Engineering Experience
