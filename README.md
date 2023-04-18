@@ -6,7 +6,7 @@ Big Data and DevOps culture enthusiast 🇩🇪_ <br>
 📧[Email](mailto:rmendoza@programmer.net) / [LinkedIn](https://www.linkedin.com/in/rmendozag/)
 
 
-## :computer: Engineering Experience
+## 💻 Engineering Experience
 
 **Big Data Engineer** @ [Kudaw](https://www.kudaw.com/home) _(Nov 2021 - Present)_ <br>
 
