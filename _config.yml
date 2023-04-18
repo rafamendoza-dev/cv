@@ -1,5 +1,3 @@
 theme: jekyll-theme-minimal
 title: 📡
-description: Rafael Mendoza's CV Technical Skills /n Full Stack - Django, DRF, flask, fastAPI, NodeJS, Laravel, TypeScript, js, es6, Angular, vueJS, Ionic, MySQL, PostgreSQL, MongoDB, EloquentORM, Redis, GraphQL, python, pytest, PHP and Go /n DevOps - git, GitHub actions, lens, Jenkins, Docker, k8s, GitOps, Snyk, ingress, portainer, argoCD, Linux, Open Telemetry, Docker Swarm, Prometheus, Jaeger, and Splunk /n Big Data - Cloudera, R, python, Databricks, Apache Software Foundation: NiFi, Kafka, Hive, Impala, Spark, Ranger, Atlas, Oozie, Yarn, and Hadoop
-
-
+description: Rafael Mendoza's CV 
