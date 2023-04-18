@@ -22,10 +22,6 @@ Development and Administration for:
 - Cloudera Data Platform Public Cloud on Microsoft Azure
 - Cloudera Data Science Workbench
 - Cloudera Data Platform Private Cloud.
-
-Apache Software Foundation:
-- NiFi, Kafka, Hive, Impala, Spark, Ranger, Atlas, Oozie, Airflow, Yarn, and Hadoop.
-Auth: AD, Azure AD, LDAP and kerberos.
 <br>
 
 **Technical Lead - Products and Services** @ [Kudaw](https://www.kudaw.com/home) _(Apr 2021 - Present)_ <br>
@@ -126,7 +122,7 @@ Project Bomberos Santiago:
 - Front-end mobile app development for iOS using-based javascript framework; Appcelerator titanium and TSS
 <br><br>
 
-**Backend Developer** @ [Bala] _(Aug 2015 - Feb 2016)_ <br>
+**Backend Developer** @ Bala <br>
 Website Project:
 Responsible for debugging, understanding, and analyzing the code of the page to subsequently implement the required solution using PHP Programming Language, MySQL 5.5 Database, and Yii 1 Framework.
 Client: Winkler Ltd.
@@ -136,6 +132,16 @@ Word processing software with DevExpress, SQL Server 2014 database, Visual Basic
 Client: Promueble Ltda.
 <br><br>
 
-**Web Developer** @ [Inversiones The Elephant Group S.P.A] _(Aug 2014 - Aug 2015)_ <br>
+**Web Developer** @ Inversiones The Elephant Group S.P.A _(Aug 2014 - Aug 2015)_ <br>
 Programming and Design in CMS Wordpress, Integration of Woocommerce, Transbank certification, Maintenance of website and sales platforms.
 Extraction and analysis of data from various sources (database, flat files, etc.) to facilitate decision-making.
+
+## 🏫🏼‍🎓 Education
+
+**Diploma of Extension** in Evaluation and Planning of Computer Projects <br>
+[Universidad de Chile](https://fen.uchile.cl/es) - Stgo, Chile _(Jul 2021 - Feb 2022)_ <br>
+
+**Bachelor Degree** in Computer Engineering <br>
+[Universidad tecnológica de Chile INACAP](https://portales.inacap.cl/) - Stgo, Chile _(Mar 2017 - Dec 2019)_ <br>
+
+
