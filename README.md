@@ -32,7 +32,7 @@ Development and Administration for:
 Auth: AD, Azure AD, LDAP and kerberos.
 <br>
 
-**Technical Lead - Products and Services** @ [Kudaw](https://www.kudaw.com/home) _(Apr 2021 - Present)_ <br>
+**Staff Software Engineer, Technical Lead - Products and Services** @ [Kudaw](https://www.kudaw.com/home) _(Apr 2021 - Present)_ <br>
 
 - Development of Solutions and project leadership in the area of Products and Services
 - Support in Big Data Project Management, Development Area 
