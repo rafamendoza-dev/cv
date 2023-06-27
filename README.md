@@ -64,7 +64,7 @@ Computer Vision Project, which includes video streaming.
 - Integration buses for video streaming with Apache Kafka and RabbitMQ
 <br><br>
 
-**Technical Project Manager** @ [Icov](https://www.linkedin.com/company/icov-consultores-tecnologicos-asociados/) _(Jul 2018 - Feb 2019)_ <br>
+**Lead Software Engineer** @ [Icov](https://www.linkedin.com/company/icov-consultores-tecnologicos-asociados/) _(Jul 2018 - Feb 2019)_ <br>
 
 Development, monitoring, and agile management of projects of various cells of 2 to 4 people working on design and architecture patterns for each case complemented by agile methodologies and modular development.
 
