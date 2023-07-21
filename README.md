@@ -14,13 +14,13 @@ Big Data and DevOps culture enthusiast_ <br>
 
 ## 💻 Engineering Experience
 
-**Big Data Engineer** @ [Kudaw](https://www.kudaw.com/home) _(Nov 2021 - Present)_ <br>
+**Big Data Engineer** @ [Kudaw](https://www.kudaw.com/home) _(Jan 2022 - Present)_ <br>
 
-Development of Big Data Solutions mainly using Splunk, Microsoft Azure, and Cloudera.
+Big Data Solutions' development mainly uses Splunk, Microsoft Azure, and Cloudera.
 
 - Development of WorkFlows in Apache NiFi and Azure Synapse Pipelines(Data Factory)
 - Data migration and processing with PySpark and R.
-- Exploratory data analysis using Splunk, SQL, Azure Data Studio 
+- Exploratory data analysis using Splunk, SQL, and Azure Data Studio 
 - Basic statistics with R
 - Integration of various libraries and ML models.
 
@@ -29,7 +29,7 @@ Development and Administration for:
 - Cloudera Data Science Workbench
 - Cloudera Data Platform Private Cloud.
 
-Auth: AD, Azure AD, LDAP and kerberos.
+Auth: AD, Azure AD, LDAP, and Kerberos.
 <br>
 
 **Staff Software Engineer, Technical Lead - Products and Services** @ [Kudaw](https://www.kudaw.com/home) _(Apr 2021 - Present)_ <br>
@@ -39,7 +39,7 @@ Auth: AD, Azure AD, LDAP and kerberos.
 - Define estimates, considerations, and technical conditions of each product
 - Integration into the architecture area to support the technical decision-making of the Development area
 - Direct and plan deployments to different environments
-- In charge of training collaborators by carrying out documentation and workshops of multiple technologies in which they stand out: Angular, typescript, docker, git, Django rest framework, and CI with GitHub actions
+- In charge of training collaborators by carrying out documentation and workshops on multiple technologies in which they stand out: Angular, typescript, docker, git, Django rest framework, and CI with GitHub actions
 <br>
 
 **Senior Software Engineer** @ [Kudaw](https://www.kudaw.com/home) _(Feb 2019 - Mar 2021)_ <br>
@@ -89,8 +89,8 @@ Client: ICOV, Desarrollo Interno.
 
 **Software Architect - DevOps** @ [xmartlab](https://www.xmartlab.com/) _(Jul 2017 - Aug 2018)_ <br>
 
-- Application development, architecture design, and SaaS process automation with python 3, consuming REST architectures and various web services for subsequent persistence and data processing using MongoDB, pandas, and NumPy
-- Making bots for Slack in python 3
+- Application development, architecture design, and SaaS process automation with Python 3, consuming REST architectures and various web services for subsequent persistence and data processing using MongoDB, pandas, and NumPy
+- Making bots for Slack in Python 3
 - Version control: git, GitHub
 - Administration and deployment of Linux and Microsoft VPS instances in Vultr
 
