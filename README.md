@@ -32,7 +32,7 @@ Development and Administration for:
 Auth: AD, Azure AD, LDAP, and Kerberos.
 <br>
 
-**Staff Software Engineer, Technical Lead - Products and Services** @ [Kudaw](https://www.kudaw.com/home) _(Apr 2021 - Present)_ <br>
+**Staff Software Engineer, Technical Lead - Products and Services** @ [Kudaw](https://www.kudaw.com/home) _(Feb 2021 - Present)_ <br>
 
 - Development of Solutions and project leadership in the area of Products and Services
 - Support in Big Data Project Management, Development Area 
@@ -42,7 +42,7 @@ Auth: AD, Azure AD, LDAP, and Kerberos.
 - In charge of training collaborators by carrying out documentation and workshops on multiple technologies in which they stand out: Angular, typescript, docker, git, Django rest framework, and CI with GitHub actions
 <br>
 
-**Senior Software Engineer** @ [Kudaw](https://www.kudaw.com/home) _(Feb 2019 - Mar 2021)_ <br>
+**Senior Software Engineer** @ [Kudaw](https://www.kudaw.com/home) _(Feb 2019 - Feb 2021)_ <br>
 Principal in charge of developing the product and services area: Product developer for Big Data and Observability in Azure and On-premises.
 
 Featured projects:
