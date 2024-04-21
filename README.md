@@ -14,7 +14,7 @@ Big Data and DevOps culture enthusiast_ <br>
 
 ## 💻 Engineering Experience
 
-**Solutions Architect, Enginer - Data & AI** @ [Kudaw](https://www.kudaw.com/home) _(Mar 2024 - Present)_ <br>
+**Solutions Architect, Engineer - Data & AI** @ [Kudaw](https://www.kudaw.com/home) _(Mar 2024 - Present)_ <br>
 Specializing in the Development and Design of Big Data Solutions, with a focus on leveraging Splunk, Microsoft Azure, and Cloudera for Monitoring, Security, and Analytics projects.
 
 Key Responsibilities:
@@ -25,7 +25,7 @@ Key Responsibilities:
   <br>
   
 **Staff Software Engineer, Technical Lead & Big Data Engineer** @ [Kudaw](https://www.kudaw.com/home) _(Jan 2022 - Mar 2024)_ <br>
-As a staff software engineer and big data engineer:
+As a Staff Software Engineer and Big Data Engineer:
 
 Development and Design of Big Data Solutions mainly using Splunk, Microsoft Azure, and Cloudera.
 - Proficient support in Big Data Project Management, ensuring seamless execution and delivery of projects.
