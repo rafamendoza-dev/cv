@@ -14,8 +14,17 @@ Big Data and DevOps culture enthusiast_ <br>
 
 ## 💻 Engineering Experience
 
-**Big Data Engineer** @ [Kudaw](https://www.kudaw.com/home) _(Jan 2022 - Present)_ <br>
+**Solutions Architect, Enginer - Data & AI** @ [Kudaw](https://www.kudaw.com/home) _(Mar 2024 - Present)_ <br>
+Specializing in the Development and Design of Big Data Solutions, with a focus on leveraging Splunk, Microsoft Azure, and Cloudera for Monitoring, Security, and Analytics projects.
 
+Key Responsibilities:
+- Assuming a leadership role in the Development of Solutions, encompassing meticulous software design and project oversight across a diverse range of Products and Services.
+- Articulating precise estimates, considerations, and technical specifications for each product, ensuring alignment with organizational objectives and industry standards.
+- Providing comprehensive oversight and management of Development and Engineering endeavors within Splunk and Software Engineering projects, ensuring adherence to best practices and optimal outcomes.
+- Strategizing and orchestrating deployment activities across diverse environments, fostering seamless integration and operational efficiency.
+  <br>
+  
+**Staff Software Engineer, Technical Lead & Big Data Engineer** @ [Kudaw](https://www.kudaw.com/home) _(Jan 2022 - Mar 2024)_ <br>
 Big Data Solutions' development mainly uses Splunk, Microsoft Azure, and Cloudera.
 
 - Development of WorkFlows in Apache NiFi and Azure Synapse Pipelines(Data Factory)
@@ -32,7 +41,8 @@ Development and Administration for:
 Auth: AD, Azure AD, LDAP, and Kerberos.
 <br>
 
-**Staff Software Engineer, Technical Lead - Products and Services** @ [Kudaw](https://www.kudaw.com/home) _(Feb 2021 - Present)_ <br>
+**Staff Software Engineer, Technical Lead** @ [Kudaw](https://www.kudaw.com/home) _(Feb 2021 - Jan 2022)_ <br>
+Fullstack development and team leader.
 
 - Development of Solutions and project leadership in the area of Products and Services
 - Support in Big Data Project Management, Development Area 
@@ -42,8 +52,8 @@ Auth: AD, Azure AD, LDAP, and Kerberos.
 - In charge of training collaborators by carrying out documentation and workshops on multiple technologies in which they stand out: Angular, typescript, docker, git, Django rest framework, and CI with GitHub actions
 <br>
 
-**Senior Software Engineer** @ [Kudaw](https://www.kudaw.com/home) _(Feb 2019 - Feb 2021)_ <br>
-Principal in charge of developing the product and services area: Product developer for Big Data and Observability in Azure and On-premises.
+**Senior Software Engineer, Full Stack Developer** @ [Kudaw](https://www.kudaw.com/home) _(Feb 2019 - Feb 2021)_ <br>
+Fullstack development for the product and services area. Developer for Big Data and Observability solutions in Azure and On-premises.
 
 Featured projects:
 Project Leader Allkun EM:
@@ -64,8 +74,7 @@ Computer Vision Project, which includes video streaming.
 - Integration buses for video streaming with Apache Kafka and RabbitMQ
 <br><br>
 
-**Lead Software Engineer** @ [Icov](https://www.linkedin.com/company/icov-consultores-tecnologicos-asociados/) _(Jul 2018 - Feb 2019)_ <br>
-
+**Lead Software Engineer, Mobile Developer** @ [Icov](https://www.linkedin.com/company/icov-consultores-tecnologicos-asociados/) _(Jul 2018 - Feb 2019)_ <br>
 Development, monitoring, and agile management of projects of various cells of 2 to 4 people working on design and architecture patterns for each case complemented by agile methodologies and modular development.
 
 Projects Red Reparto, Red Amigos, Red Trade:
@@ -86,11 +95,23 @@ Liwen Project:
 Client: ICOV, Desarrollo Interno.
 <br><br>
 
+**Software Architect & Backend Developer** @ [xmartlab](https://www.xmartlab.com/) _(Nov 2017 - Aug 2018)_ <br>
+Backend development, architecture design, and SaaS process automation with python 3, consuming REST architectures and various web services for subsequent persistence and data processing using MongoDB, pandas, and NumPy
 
-**Software Architect - DevOps** @ [xmartlab](https://www.xmartlab.com/) _(Jul 2017 - Aug 2018)_ <br>
+- Making bots for Slack in python 3 
+- Version control: git, GitHub
+- Administration and deployment of Linux and Microsoft VPS instances in Vultr
 
-- Application development, architecture design, and SaaS process automation with Python 3, consuming REST architectures and various web services for subsequent persistence and data processing using MongoDB, pandas, and NumPy
-- Making bots for Slack in Python 3
+SEGURIDAD – Implementación IBM Enterprise Insight Analysis Project:
+- Implementation of the production environment and deployment IBM i2 EIA using XML, Java, and Batch microservices using patterns: Opal and Onyx
+- Design and administration of database in IBM DB2. IBM Guardium API integration
+- Automation and data loading: IBM DB2, IBM iBase using Python 3 for data consumption in IBM i2 Analyst's Notebook using ODBC
+Client: Claro Chile
+
+**Senior Software Engineer, DevOps & Full Stack Developer** @ [xmartlab](https://www.xmartlab.com/) _(Jul 2017 - Nov 2017)_ <br>
+Fullstack development, architecture design, CI/CD and SaaS with php, python and TypeScript
+
+- Process automation with python
 - Version control: git, GitHub
 - Administration and deployment of Linux and Microsoft VPS instances in Vultr
 
@@ -110,7 +131,7 @@ Client: Claro Chile
 <br><br>
 
 
-**Full Stack Developer** @ [AEC Diseño BIM](https://arqz-bim.com/) _(Jul 2016 - Jul 2017)_ <br>
+**Software Engineer, Full Stack Developer** @ [AEC Diseño BIM](https://arqz-bim.com/) _(Jul 2016 - Jul 2017)_ <br>
 A company that gave me the necessary tools and training to understand the MVC design pattern in-depth and the handling of Laravel 5.
 
 ARQZ-BIM Company website:
@@ -123,14 +144,14 @@ SGYC ERP project:
 - Front-end support using CSS3, gulp, HTML5, SASS, and Bootstrap 3 along with the integration of various Javascript libraries
 <br><br>
 
-**Mobile Developer** @ [Creador S.A.](http://www.creador.cl/) _(Mar 2016 - Jul 2016)_ <br>
+**Software Engineer, Mobile Developer** @ [Creador S.A.](http://www.creador.cl/) _(Mar 2016 - Jul 2016)_ <br>
 Interface programmer, in charge of transforming app designs into code and implementing interactions between screens, working with the designer to ensure compliance with the aesthetics required in each case.
 
 Project Bomberos Santiago:
 - Front-end mobile app development for iOS using-based javascript framework; Appcelerator titanium and TSS
 <br><br>
 
-**Backend Developer** @ Bala _(Aug 2015 - Feb 2016)_ <br>
+**Software Engineer, Backend Developer** @ Bala _(Aug 2015 - Feb 2016)_ <br>
 Website Project:
 Responsible for debugging, understanding, and analyzing the code of the page to subsequently implement the required solution using PHP Programming Language, MySQL 5.5 Database, and Yii 1 Framework.
 Client: Winkler Ltd.
@@ -140,12 +161,15 @@ Word processing software with DevExpress, SQL Server 2014 database, Visual Basic
 Client: Promueble Ltda.
 <br><br>
 
-**Web Developer** @ Inversiones The Elephant Group S.P.A _(Aug 2014 - Aug 2015)_ <br>
+**Software Engineer, Web Developer** @ Inversiones The Elephant Group S.P.A _(Aug 2014 - Aug 2015)_ <br>
 Programming and Design in CMS Wordpress, Integration of Woocommerce, Transbank certification, Maintenance of website and sales platforms.
 Extraction and analysis of data from various sources (database, flat files, etc.) to facilitate decision-making.
 <br><br>
 
 ## 🏫 Education
+
+**Bachelor Degree** in Cybersecurity Engineering <br>
+[Universidad Mayor](https://www.umayor.cl/santiago) - Stgo, Chile _(Mar 2024 - Dev 2026)_ <br>
 
 **Diploma of Extension** in Evaluation and Planning of Computer Projects <br>
 [Universidad de Chile](https://fen.uchile.cl/es) - Stgo, Chile _(Jul 2021 - Feb 2022)_ <br>
