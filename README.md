@@ -25,25 +25,25 @@ Key Responsibilities:
   <br>
   
 **Staff Software Engineer, Technical Lead & Big Data Engineer** @ [Kudaw](https://www.kudaw.com/home) _(Jan 2022 - Mar 2024)_ <br>
-Big Data Solutions' development mainly uses Splunk, Microsoft Azure, and Cloudera.
+As a senior staff software enginer and big data engineer:
 
-- Development of WorkFlows in Apache NiFi and Azure Synapse Pipelines(Data Factory)
-- Data migration and processing with PySpark and R.
-- Exploratory data analysis using Splunk, SQL, and Azure Data Studio 
-- Basic statistics with R
-- Integration of various libraries and ML models.
+Development and Design of Big Data Solutions mainly using Splunk, Microsoft Azure, and Cloudera.
+- Proficient support in Big Data Project Management, ensuring seamless execution and delivery of projects.
+- Expertise in developing Workflows, leveraging Apache NiFi and Azure Synapse Pipelines (Data Factory), along with proficient data migration and processing utilizing PySpark and R.
+- Conducting thorough Exploratory Data Analysis using tools like Splunk, SQL, Azure Data Studio, and proficient in performing basic statistical analysis with R. Skilled in integrating various libraries and implementing Machine Learning models.
+- Demonstrated proficiency in Development and Administration for Cloudera platforms including Cloudera Data Platform Public Cloud on Microsoft Azure, Cloudera Data Science Workbench, and Cloudera Data Platform Private Cloud.
+- Extensive experience with Apache Software Foundation tools such as NiFi, Kafka, Hive, Impala, Spark, Ranger, Atlas, Oozie, Airflow, Yarn, and Hadoop.
+- Proficient in Authentication methodologies including AD, Azure AD, LDAP, and Kerberos.
 
-Development and Administration for:
-- Cloudera Data Platform Public Cloud on Microsoft Azure
-- Cloudera Data Science Workbench
-- Cloudera Data Platform Private Cloud.
-
-Auth: AD, Azure AD, LDAP, and Kerberos.
-<br>
+As a Senior Technical Lead:
+- Development of Solutions, software design, and project leadership in the area of Products and Services 
+- Define estimates, considerations, and technical conditions of each product
+- Development and project management in Splunk projects 
+- Direct and plan deployments to different environments
+- In charge of training collaborators by carrying out documentation and workshops of multiple technologies in which they stand out: Cloudera, Apache NiFi, docker, git, and CI with GitHub actions
 
 **Staff Software Engineer, Technical Lead** @ [Kudaw](https://www.kudaw.com/home) _(Feb 2021 - Jan 2022)_ <br>
 Fullstack development and team leader.
-
 - Development of Solutions and project leadership in the area of Products and Services
 - Support in Big Data Project Management, Development Area 
 - Define estimates, considerations, and technical conditions of each product
@@ -54,7 +54,6 @@ Fullstack development and team leader.
 
 **Senior Software Engineer, Full Stack Developer** @ [Kudaw](https://www.kudaw.com/home) _(Feb 2019 - Feb 2021)_ <br>
 Fullstack development for the product and services area. Developer for Big Data and Observability solutions in Azure and On-premises.
-
 Featured projects:
 Project Leader Allkun EM:
 - Microservices: API Rest Django - PostgreSQL - Front End Angular - Worker DjangoQ
@@ -66,7 +65,6 @@ Project Leader Allkun EM:
 - Integrations: Rest API, Splunk, Nagios, Azure Alerts, PRTG, Prometheus Alerts
 - Auth: LDAP, Active Directory, OAuth2
 - Workers: Django Q, Django signals, Push Notifications, and Websockets messaging using Django Channels
-
 Project Leader Kintun:
 Computer Vision Project, which includes video streaming.
 - Backend development using Python, flask, and MySQL, frontend in Angular
@@ -76,7 +74,6 @@ Computer Vision Project, which includes video streaming.
 
 **Lead Software Engineer, Mobile Developer** @ [Icov](https://www.linkedin.com/company/icov-consultores-tecnologicos-asociados/) _(Jul 2018 - Feb 2019)_ <br>
 Development, monitoring, and agile management of projects of various cells of 2 to 4 people working on design and architecture patterns for each case complemented by agile methodologies and modular development.
-
 Projects Red Reparto, Red Amigos, Red Trade:
 Apps that actively use geolocation and barcode scanning and QR, WebSocket messaging.
 - Project manager and development support: REST API using Django Rest Framework, BBDD PostgreSQL with PostGIS, Web Client in VueJS.
@@ -84,12 +81,10 @@ Apps that actively use geolocation and barcode scanning and QR, WebSocket messag
 - DevOps: Django Rest Framework and PostgreSQL in Debian using Gunicorn on NginX.
 - Version control: git, bitbucket 
 Client: Comercial Arroba, Entel Chile
-
 OC Project:
 - Project manager and development support: REST API using Django Rest Framework, PostgreSQL database, Web Client in VueJS.
 - DevOps deploying: Django Rest Framework and PostgreSQL on Debian using Gunicorn on NginX.
 Client: EDEMSA Eléctricas de Medellín Ingeniería y Servicios
-
 Liwen Project:
 - Development WebApp using Angular 5, Typescript y Firebase
 Client: ICOV, Desarrollo Interno.
@@ -97,11 +92,9 @@ Client: ICOV, Desarrollo Interno.
 
 **Software Architect & Backend Developer** @ [xmartlab](https://www.xmartlab.com/) _(Nov 2017 - Aug 2018)_ <br>
 Backend development, architecture design, and SaaS process automation with python 3, consuming REST architectures and various web services for subsequent persistence and data processing using MongoDB, pandas, and NumPy
-
 - Making bots for Slack in python 3 
 - Version control: git, GitHub
 - Administration and deployment of Linux and Microsoft VPS instances in Vultr
-
 SEGURIDAD – Implementación IBM Enterprise Insight Analysis Project:
 - Implementation of the production environment and deployment IBM i2 EIA using XML, Java, and Batch microservices using patterns: Opal and Onyx
 - Design and administration of database in IBM DB2. IBM Guardium API integration
@@ -110,11 +103,9 @@ Client: Claro Chile
 
 **Senior Software Engineer, DevOps & Full Stack Developer** @ [xmartlab](https://www.xmartlab.com/) _(Jul 2017 - Nov 2017)_ <br>
 Fullstack development, architecture design, CI/CD and SaaS with php, python and TypeScript
-
 - Process automation with python
 - Version control: git, GitHub
 - Administration and deployment of Linux and Microsoft VPS instances in Vultr
-
 Turno Extra Project:
 Developer and project leader
 - Creating rest APIs in Laravel 5, Php 7, Landing page, and back office with Material Design, Bootstrap, Webpack, and Mysql complying with OWASP10
@@ -122,7 +113,6 @@ Developer and project leader
 - App Android in Ionic 3, Angular, and Firebase
 API & Web: http://turnoextra.xmartlab.com/
 Client: Turno Extra
-
 SEGURIDAD – Implementación IBM Enterprise Insight Analysis Project:
 - Implementation of the production environment and deployment IBM i2 EIA using XML, Java, and Batch microservices using patterns: Opal and Onyx
 - Design and administration of database in IBM DB2. IBM Guardium API integration
@@ -130,15 +120,12 @@ SEGURIDAD – Implementación IBM Enterprise Insight Analysis Project:
 Client: Claro Chile
 <br><br>
 
-
 **Software Engineer, Full Stack Developer** @ [AEC Diseño BIM](https://arqz-bim.com/) _(Jul 2016 - Jul 2017)_ <br>
 A company that gave me the necessary tools and training to understand the MVC design pattern in-depth and the handling of Laravel 5.
-
 ARQZ-BIM Company website:
 - Animation development: Bim vs no Bim using Javascript, GSAP, and CSS3
 - Backend creation: Laravel 5, PHP, Eloquent ORM, and MySQL
 - Scroll-Menu development: Javascript, jQuery, blade, and Ajax in the projects section
-
 SGYC ERP project:
 - Maintenance and creation of control and management ERP modules for SGYC architecture, using: Laravel 5, PHP, Blade, Eloquent ORM, POO, MVC, and MySQL
 - Front-end support using CSS3, gulp, HTML5, SASS, and Bootstrap 3 along with the integration of various Javascript libraries
