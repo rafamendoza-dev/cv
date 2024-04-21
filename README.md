@@ -25,7 +25,7 @@ Key Responsibilities:
   <br>
   
 **Staff Software Engineer, Technical Lead & Big Data Engineer** @ [Kudaw](https://www.kudaw.com/home) _(Jan 2022 - Mar 2024)_ <br>
-As a senior staff software enginer and big data engineer:
+As a staff software engineer and big data engineer:
 
 Development and Design of Big Data Solutions mainly using Splunk, Microsoft Azure, and Cloudera.
 - Proficient support in Big Data Project Management, ensuring seamless execution and delivery of projects.
